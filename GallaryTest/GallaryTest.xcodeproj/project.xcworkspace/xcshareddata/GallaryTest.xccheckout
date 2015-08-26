@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>864E0352-C932-4923-9B60-BAA624901C58</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GallaryTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0DEF540CB190BCD825B118477406495E0FAEEA57</key>
+		<string>https://msasg.visualstudio.com/DefaultCollection/Bing_STC-Asia/_git/BingEmoi</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GallaryTest/GallaryTest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0DEF540CB190BCD825B118477406495E0FAEEA57</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://msasg.visualstudio.com/DefaultCollection/Bing_STC-Asia/_git/BingEmoi</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0DEF540CB190BCD825B118477406495E0FAEEA57</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0DEF540CB190BCD825B118477406495E0FAEEA57</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BingEmoi</string>
+		</dict>
+	</array>
+</dict>
+</plist>
